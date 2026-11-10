@@ -31,7 +31,7 @@ Up close, the lighthouse is taller than it looked. Its white paint is peeling, a
 [Go back to the crossroads](#crossroads)
 
 ## knock
-You knock. The sound echoes up the inside of the tower. Nobody answers.
+You knock. The sound echoes through the tower. Nobody answers.
 
 Of course nobody answers. You're the keeper.
 
@@ -44,17 +44,31 @@ The key turns with a groan. Inside, a spiral staircase winds up into total darkn
 [Light your lantern and climb](#lamp-room) if lantern
 
 ## fall
-Somewhere past step one hundred, your foot finds nothing at all. You sit down hard and decide to wait for morning.
+Somewhere past step one hundred, your foot finds nothing. You sit down hard and decide to wait for morning.
 
 The ship gets past the rocks, just barely. The next day, its captain sends you a very angry letter.
 
 THE END
 
 ## lamp-room
-At the top, the great lamp sits inside a cage of glass prisms. You open the little door at its base, turn the brass valve, and touch your lantern's flame to the wick.
+At the top of the spiral stair, the great lamp sits inside a cage of glass prisms. One space in the ring is empty. Without that prism, the lamp can’t focus its light across the water.
 
-The light blooms. The prisms catch it and throw it out across the water in a slow, turning beam.
+[Give up and rest for the night](#give-up)
+[Go back to the crossroads](#crossroads)
+[Place the glass prism around the lamp](#light-lamp) if glass
 
-Far out in the fog, a ship's horn answers with two long blasts. *Thank you.*
+## give-up
+You lay down...
+
+THE END
+
+## light-lamp
+The valve resists. You brace one hand against the cold brass and turn again. Somewhere inside the lamp, a mechanism clicks.
+
+Your lantern flame trembles against the wick. For one breath, nothing happens. Then the prisms catch fire with light, and a bright beam sweeps across the fog.
+
+Far out at sea, a horn answers: two long blasts. ~*Thank you*~
+
+
 
 THE END
