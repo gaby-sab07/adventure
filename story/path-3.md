@@ -63,6 +63,6 @@ You swim, you splutter, and you crawl up onto the sand just as the waves close o
 [Catch your breath](#path-3)
 
 ## lose
-You gave up, and nobody is there to save you, you lost.
+You're lost, and found nothing here. 
 
-BAD ENDING 
+[Go back to the crossroads](#crossroads)
