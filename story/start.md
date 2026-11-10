@@ -23,16 +23,16 @@ theme: paper
 ## dock
 ![A small rocky island at dusk, with a dark lighthouse on the cliff](images/island.svg)
 
-The ferry leaves you on a crooked wooden dock and chugs off into the fog. You are the new lighthouse keeper of Gull Island, and this is your first night on the job.
+The ferry pulls away, leaving you alone with the hiss of the harbor and the slow, patient blackness of the cliffs on a crooked wooden dock, and chugs off into the fog. You are the new lighthouse keeper of Gull Island, and this is your first night on the job.
 
-Up on the cliff, the lighthouse is dark. It should have been lit an hour ago.
+Up on the cliff, the lighthouse is dark. The lighthouse should have been lit an hour ago. Yet the lantern room is still empty, and the island seems to be holding its breath.
 
 Somewhere out in the fog, a ship's horn sounds. Then another, closer.
 
 [Find a way to get that light working](#crossroads)
 
 ## crossroads
-You stand where the island's paths meet. Gulls complain from every roof and rock, and the dark tower watches over all of it.
+You stand where the island's paths meet. Gulls complain from every roof and rock, the fog creeps between your boots like a living thing, and the tower above you watches like a patient eye.
 
 [Walk up the hill to the village](#path-1)
 [Take the windy trail along the cliffs](#path-2)
