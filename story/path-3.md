@@ -55,7 +55,7 @@ You find a bent spoon, half a boot, and a crab who does not want to be found.
 When you turn around, the water is up to your chest.
 
 [Swim for it](#swim)
-[Give up](#lost)
+[Give up](#lose)
 
 ## swim
 You swim, you splutter, and you crawl up onto the sand just as the waves close over the wreck.
