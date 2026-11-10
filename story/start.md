@@ -17,7 +17,7 @@
 -->
 
 # The Last Light on Gull Island
-by: CS 1101
+by: Gaby Saboia
 theme: paper
 
 ## dock
