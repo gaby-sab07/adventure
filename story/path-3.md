@@ -21,7 +21,7 @@
   Lines inside these comment marks are notes. Players never see them.
 -->
 
-by:
+by: Aaron R
 
 ## path-3
 The beach is cold grey sand. The tide is out, and the ribs of an old boat poke out of the water near the rocks.
@@ -55,8 +55,14 @@ You find a bent spoon, half a boot, and a crab who does not want to be found.
 When you turn around, the water is up to your chest.
 
 [Swim for it](#swim)
+[Give up](#lose)
 
 ## swim
 You swim, you splutter, and you crawl up onto the sand just as the waves close over the wreck.
 
 [Catch your breath](#path-3)
+
+## lose
+You gave up, and nobody is there to save you, you lost.
+
+BAD ENDING 
