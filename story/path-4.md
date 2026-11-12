@@ -24,7 +24,7 @@
 by: Gaby Saboia
 
 ## path-4
-Up close, the lighthouse is taller than it looked. Its white paint is peeling, and the great lamp room at the top is completely dark. The door is thick oak with an iron lock.
+Up close, the lighthouse looms over you, far taller than it seemed from the crossroads. Wind rushes off the sea, carrying the sharp smell of salt, while waves crash against the rocks below. Its white paint peels in long curls, and the great lamp room at the top is dark—no welcoming beam to guide ships through the fog. The thick oak door is swollen with age, its iron lock spotted with rust.
 
 [Unlock the door](#stairs) if iron key
 [Knock and hope someone answers](#knock)
