@@ -31,9 +31,9 @@ Up close, the lighthouse looms over you, far taller than it seemed from the cros
 [Go back to the crossroads](#crossroads)
 
 ## knock
-You knock. The sound echoes through the tower. Nobody answers.
+You knock. The sound echoes through the tower, bouncing from stone walls and up the spiral stair. It rings out over the dark sea and then disappears, swallowed by the wind. Nobody answers.
 
-Of course nobody answers. You're the keeper.
+Of course nobody answers. You're the keeper, and the tower has been waiting for you to notice.
 
 [Step back](#path-4)
 
