@@ -35,7 +35,7 @@ The name on its side is almost worn away: *Abernathy's Pride*.
 ## sandcastle
 It's a very good sandcastle: four towers, a moat, and a flag made from a gull feather. You lose track of time completely.
 
-When you finally look up, the fog has cleared and the sun is rising.
+When you finally look up, the fog has cleared and the sun is rising. The ship has made it safely past the rocks.
 
 THE END
 
@@ -52,17 +52,18 @@ The tide is starting to come back in.
 ## wreck-deeper
 You find a bent spoon, half a boot, and a crab who does not want to be found.
 
-When you turn around, the water is up to your chest.
+When you turn around, the water is up to your chest. You still have the iron key, but the tide is rising fast.
 
-[Swim for it](#swim)
-[Give up](#lose)
+[Swim for shore](#swim)
+[Abandon the search and head back](#give-up)
 
 ## swim
-You swim, you splutter, and you crawl up onto the sand just as the waves close over the wreck.
+You swim, you splutter, and you crawl up onto the sand just as the waves close over the wreck. The iron key is still in your pocket.
 
 [Catch your breath](#path-3)
+[Go to the lighthouse](#path-4) if iron key
 
-## lose
-You're lost, and found nothing here. 
+## give-up
+You abandon the search and struggle back to shore with the iron key you found. The wreck is swallowed by the waves before you can return.
 
-[Go back to the crossroads](#crossroads)
+[Go to the crossroads](#crossroads)
