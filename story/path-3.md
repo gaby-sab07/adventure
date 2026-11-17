@@ -21,7 +21,7 @@
   Lines inside these comment marks are notes. Players never see them.
 -->
 
-by:
+by: Aaron R
 
 ## path-3
 The beach is cold grey sand. The tide is out, and the ribs of an old boat poke out of the water near the rocks.
