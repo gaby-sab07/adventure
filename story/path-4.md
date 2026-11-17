@@ -96,7 +96,7 @@ get: glass
 [Examine the machine](#lab-machine)
 [Climb back up](#explore-out)
 
-## lab-mahine
+## lab-machine
 You lean over the machine. Beneath its glass face, brass wheels turn in careful, intricate patterns. You follow their motion, trying to understand what the trembling needle is measuring.
 
 Minutes slip by. Then hours. Each time you think you’ve found the answer, another gear shifts and reveals a new pattern. You barely notice the blue lights fading—or the first gray light of dawn creeping through the cracks above.
