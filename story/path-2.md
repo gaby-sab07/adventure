@@ -51,7 +51,7 @@ A genie appears out of the lamp. "You have one wish, make it quick."
 [Ask for a 10 billion dollars](#Bad-wish)
 [Back away slowly](#path-2)
 
-## Bad wish
+## Bad-wish
 The genie laughs and snaps his fingers. As his fingers snaps the tunnel begins to fill with bills and you get pushed out by the obscene amount of money. You fall off the cliff and tumble into the water. As you swim back to shore watching all the money falling into the water below, you hear the laughter of the genie in the distance. It's morning and the harbor master is waiting for you with a long list of complaints.
 
 THE END
