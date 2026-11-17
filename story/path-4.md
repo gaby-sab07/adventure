@@ -108,11 +108,11 @@ You scramble back to the surface. The sea is calm now, and it is morning. When y
 THE END
 
 ## fall
-At the top of the spiral stair, the great lamp sits inside a cage of glass prisms. One space in the ring is empty. Without that prism, the lamp can’t focus its light across the water.
+Somewhere past step one hundred, your foot finds nothing. You sit down hard and decide to wait for morning.
 
-[Place the glass prism around the lamp](#light-lamp) if glass
-[Give up and rest for the night](#give-up)
-[Go back to the crossroads](#crossroads) 
+The ship gets past the rocks, just barely. The next day, its captain sends you a very angry letter.
+
+THE END
 
 ## lamp-room
 At the top of the spiral stair, the great lamp sits inside a cage of glass prisms. One space in the ring is empty. Without that prism, the lamp can’t focus its light across the water.
