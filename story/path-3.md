@@ -40,9 +40,10 @@ When you finally look up, the fog has cleared and the sun is rising.
 THE END
 
 ## wreck
-The water is freezing. You climb into the wreck and find a rusty tin box wedged under a seat. Inside, wrapped in oilcloth, is a heavy iron key.
+The water is freezing. You climb into the wreck and find a rusty tin box wedged under a seat. Inside, wrapped in oilcloth, is a heavy iron key. After rummaging some more, you find a folded piece of paper. Inside is a woman with a bright smile and positive energy. Might as well hold onto it.
 
 get: iron key
+get: paper
 
 The tide is starting to come back in.
 
