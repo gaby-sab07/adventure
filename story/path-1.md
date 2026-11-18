@@ -33,6 +33,14 @@ Well? What will you do? The lighthouse wont light itself up, after all.
 [Knock on the bakery door](#bakery)
 [Knock on the keeper's house](#old-keeper)
 [Go back to the crossroads](#crossroads)
+[You know what? I don't wanna play this anymore](#leave)
+
+## leave
+Uh...wait...can...can they do that?? Who let them do that?? HEY! WE HAVE A STORY TO TELL! GET BACK HERE-
+
+The voice slowly fades away, and you are now in the void. I hope you're happy about this one chief. 
+
+THE END
 
 ## bakery
 You faintly knock on the door 3 times. Rustling noses fill the quiet until the door eventually opens. A woman is standing at the entrance with flour all over her clothes, with the cloudy culprit slowly starting to settle on the ground. A name tag with the name "Rosa" stays slightly crooked on the strap of her apron. 
