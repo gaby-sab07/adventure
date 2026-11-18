@@ -68,8 +68,44 @@ When you leave Rosa's house to check on things around the area, you spot the shi
 THE END
 
 ## old-keeper
-An old man opens the door just a crack. "Abernathy," he says. "I kept that light for forty years."
+An old man with a button up shirt and a paper in the front pocket opens the door just a crack, squinting while doing so. "What?? Who goes there?? These dang whippersnappers." Eventually, he spots you.
 
-"The tower door is locked, and the only key went down with my boat when she sank off the south beach. If you want that light lit, the key is in the wreck."
+"Well, what's this, a new face around 'ere ay? Are ya the new keeper or something? You better do yer job right kid, I kept that light up for forty years."
+
+[Ask about the Tower](#towerlore)
+["What's in your pocket?"](#snooping)
+
+## towerlore
+"Ah... the tower... Yeah, that damn door is locked, and the only key went down with my boat when she sank off the south beach. You might have to get your hands dirty in that wreckage over there if you want to find that key."
 
 [Go back to the crossroads](#crossroads)
+[Keep talking to the old man](#old-keeper)
+
+## snooping
+The old man freezes for a moment, with his eyes flickering with a hint of melancholy before swiftly clearing his throat. 
+
+"Gee.. nosy one aren't we? What is this, some sort of game? Just because something is there doesn't mean you have to ask about it. Now shoo, I'm rather busy this evening" 
+Despite this, the door lingers open, with the sadness never leaving the old-keeper's gaze. 
+
+[Go back to the crossroads](#crossroads)
+[Give him the paper](#drink-till-dawn) if paper
+
+## drink-till-dawn
+The old man hesitates before slowly grabbing and unfolding the paper. His cranky demeanor drops completely, with tears forming in his eyes.
+
+With a breathy laugh, he begins to speak. 
+"Ah.. well, secrets out I suppose. This photo is me back in my younger days. The other half of it, though, is with me." The old keeper states, as he takes out the paper from his pocket and reveals its contents: A photograph of a woman with a bright smile and eyes full of life. 
+
+"This here, is my beautiful wife Martha. We were together like peas in a pod. Unfortunately, that damn illness got to her 5 years ago, and now its just me. I've tried not to let it get to me but..."
+
+He pauses, the tears he was holding finally let go. 
+
+"I miss her. I miss my Martha so much. Not a day goes by where I don't think about her. I know that one day I'll see her again, but for now I just gotta keep on going. For her... for us."
+
+"Ah, excuse my blabbering. It's been a while since I've talked to anyone about this. Most of the residents are new in this village and I didn't feel like letting the town know of my misery. Say, why dont you stay for a drink? I could tell you more about my dear Martha.
+
+--------------------------------------------------
+
+You both end up drinking till morning, sharing laughs and stories about loved ones and good times. By pure luck, the ship manages to doc safely without the lighthouse. When you leave the old keeper's house and go to the docks, The harbor master awaits you with a very long list of complaints. 
+
+THE END
