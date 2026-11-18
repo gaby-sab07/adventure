@@ -33,7 +33,7 @@ Well? What will you do? The lighthouse wont light itself up, after all.
 [Knock on the bakery door](#bakery)
 [Knock on the keeper's house](#old-keeper)
 [Go back to the crossroads](#crossroads)
-[You know what? I don't wanna play this anymore](#crossroads)
+[You know what? I don't wanna play this anymore](#leave)
 
 ## leave
 Uh...wait...can...can they do that?? Who let them do that?? HEY! WE HAVE A STORY TO TELL! GET BACK HERE-
